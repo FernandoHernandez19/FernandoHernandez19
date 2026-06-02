@@ -39,6 +39,6 @@ Soy un profesional técnico orientado a resultados, con experiencia en el diseñ
 
 Estoy siempre abierto a colaborar en proyectos desafiantes, automatizaciones complejas y desarrollo de software a gran escala.
 
-* 🌐 **Portafolio Profesional:** [tu-portafolio.dev](https://github.com/FernandoHernandez19)
-* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/fernando-hern%C3%A1ndez-5b1148367/)
-* 📧 **Correo Electrónico:** [tu.email@email.com](axxate@gmail.com)
+* 🌐 **Portafolio Profesional:** [Mi-portafolio](https://github.com/FernandoHernandez19)
+* 💼 **LinkedIn:** [linkedin.com/in/fernando-hernández-5b1148367/](https://www.linkedin.com/in/fernando-hern%C3%A1ndez-5b1148367/)
+* 📧 **Correo Electrónico:** [axxate@gmail.com](axxate@gmail.com)
